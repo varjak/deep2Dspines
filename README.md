@@ -1,7 +1,7 @@
 # deep2Dspines
-This Deep Learning algorithm allows the automatic detection of dendritic spines in 2D images. It was developed in Python 3.6. Here is the overview:
+This Deep Learning algorithm allows the automatic detection of dendritic spines in 2D images. It was developed in Python 3.6. Here's the overview:
 
-1 - The algorithm starts by randomly extracting small images (windows) from every image placed in data/images.
+1 - The program starts by randomly extracting small images (windows) from every image placed in data/images.
 
 2 - Then, it prompts the user to classify them as spines or not, making a dataset for the deep learning algorithm.
 
